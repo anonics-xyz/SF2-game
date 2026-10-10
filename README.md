@@ -1,10 +1,10 @@
-# 🕹️ Terminal Arcade Suite
+# Terminal Arcade Suite
 
 A zero-dependency, cross-platform terminal arcade suite written in pure Python. Play classic arcade games directly inside your command-line interface with ANSI-colored visuals and real-time keyboard controls.
 
 ---
 
-## 🎮 Included Games
+##  Included Games
 
 | Game | Description | Controls |
 | :--- | :--- | :--- |
@@ -14,7 +14,7 @@ A zero-dependency, cross-platform terminal arcade suite written in pure Python. 
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Zero External Dependencies:** Built using standard Python libraries (`msvcrt`, `termios`, `select`, `time`, `random`).
 - **Cross-Platform Input Handling:**
@@ -25,15 +25,9 @@ A zero-dependency, cross-platform terminal arcade suite written in pure Python. 
 
 ---
 
-## 📋 Prerequisites
+## Prerequisites
 
 - **Python 3.7+**
 - A terminal that supports ANSI escape codes (Windows Terminal, PowerShell, Command Prompt on Windows 10+, iTerm2, macOS Terminal, GNOME Terminal, etc.).
 
 ---
-
-## 🚀 Quick Start
-
-1. **Save the script** as `arcade.py`:
-   ```bash
-   # Clone or save your script file locally
